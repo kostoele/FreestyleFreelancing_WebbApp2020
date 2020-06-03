@@ -10,6 +10,24 @@ As we have been seeing that we are growing faster than ever we decided to “pou
 And when it comes to hiring SOMEONE, we want to hire someone like YOU – creative and one of a kind. We kindly invite you to join our community and make something more of your passion hidden in the shelf for so long and waiting to bloom again. 
 We want from you to develop a web app – an app which should be used from people like you who want to work their dream job from everywhere in the world as well as from the people ”on the other side of the coin”– the one who already found their purpose in life and need things to be done for them the way they want it. We believe in YOU and your creative mind so we will let you do it yourself the way you want to see this app. We will list only some factors and main tasks which are important for us and our work – the rest depends only on you and your imagination.
 
+## Description of the tasks
+Our users should be able to do the following things:
+1. Create a profile (as person (without any role), as a customer or as a provider)
+2. Every profile should be unique 
+3. If the person is a customer, he/she could have only one provider (or none)
+4. If the person is a provider, he/she could have at least one customer
+5. A person can have also a role (customer/provider)
+6. A provider has an art of service, as every provider is able to work only one kind of job
+7. Create a task
+8. Every task should be unique
+9. Every task should have a kind (e.g web site, web app, table, model of a building etc)
+10. Every task has only one customer
+11. Every task has only one provider
+12. Every task has a deadline till when the task should be completed
+13. It should be possible to change the name of every person any time
+14. It should be possible to list all people with their roles (in cases there is a role)
+15. It should be possible to list all the customers and their providers
+16. It should be possible to list all the providers as well as their customers and their art of service
 
 ## Tasks
 | ID |	TASK |
