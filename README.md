@@ -11,7 +11,7 @@ And when it comes to hiring SOMEONE, we want to hire someone like YOU – creati
 We want from you to develop a web app – an app which should be used from people like you who want to work their dream job from everywhere in the world as well as from the people ”on the other side of the coin”– the one who already found their purpose in life and need things to be done for them the way they want it. We believe in YOU and your creative mind so we will let you do it yourself the way you want to see this app. We will list only some factors and main tasks which are important for us and our work – the rest depends only on you and your imagination.
 
 
-## Taks
+## Tasks
 | ID |	TASK |
 | :---: | :---: |
 |1|	create Person| 
